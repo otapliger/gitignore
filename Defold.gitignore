@@ -1,0 +1,52 @@
+# Defold
+.project
+.cproject
+.lock-wscript
+.externalToolBuilders
+.internal
+builtins
+build
+
+# Compiled Lua sources
+luac.out
+
+# Luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Object files
+*.o
+*.os
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# macOS plague :)
+.DS_Store
